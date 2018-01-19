@@ -1,2 +1,2 @@
-pygoogling==0.0.2
+pygoogling==0.0.1
 duckduckgo==0.242
