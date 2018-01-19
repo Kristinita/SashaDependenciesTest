@@ -1,0 +1,2 @@
+pygoogling==0.0.2
+duckduckgo==0.242
